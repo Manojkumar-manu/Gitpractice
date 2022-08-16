@@ -1,5 +1,4 @@
-Hi everyone
-Welcome to Testyantra
-Good evening
-Toady class input forms in HTML
-Creating the git practice
+Hai
+Hello
+Good Evening
+See you tommorow
